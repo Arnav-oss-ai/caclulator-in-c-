@@ -1,39 +1,5 @@
-# caclulator-in-c-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#calculator code in c
+==
 
 #include<iostream>
 using namespace std;
